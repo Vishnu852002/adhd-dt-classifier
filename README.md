@@ -30,6 +30,18 @@ pip install scikit-learn pandas mlxtend graphviz
 3. Run each script to perform feature selection and train a Decision Tree.
 4. Results will be saved to your Drive in the `result` folder.
 
+## References
+
+This project is inspired by the methodology discussed in the following research:
+
+**J. Shin, M. Maniruzzaman, Y. Uchida, M. A. M. Hasan, A. Megumi, and A. Yasumura**,  
+"Handwriting-Based ADHD Detection for Children Having ASD Using Machine Learning Approaches,"  
+*IEEE Access*, vol. 11, pp. 84974–84984, 2023.  
+DOI: [10.1109/ACCESS.2023.3302903](https://doi.org/10.1109/ACCESS.2023.3302903)
+
+> This implementation was created independently by Vishnu Veenadharan as part of an academic project during undergraduate studies. The code is for educational and research purposes only.
+
+
 ## Notes
 
 - Each script performs grid search to optimize Decision Tree parameters.
