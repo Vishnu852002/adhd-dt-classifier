@@ -39,7 +39,7 @@ This project is inspired by the methodology discussed in the following research:
 *IEEE Access*, vol. 11, pp. 84974–84984, 2023.  
 DOI: [10.1109/ACCESS.2023.3302903](https://doi.org/10.1109/ACCESS.2023.3302903)
 
-> This implementation was created independently by Vishnu Veenadharan as part of an academic project during undergraduate studies. The code is for educational and research purposes only.
+> This implementation was created independently by Vishnu Veenadharan, Abin BP, Edwin Marian Mathew, Alan Johnson as part of an academic project during undergraduate studies. The code is for educational and research purposes only.
 
 
 ## Notes
